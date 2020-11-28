@@ -12,7 +12,7 @@ Get more information about [MiniValine](https://github.com/MiniValine/MiniValine
 https://cdn.jsdelivr.net/gh/MiniValine/weibo
 ```
 
-## [MiniValine FAQs](https://github.com/MiniValine/MiniValine/blob/master/.github/FAQ.md)
+## [MiniValine FAQs](https://minivaline.js.org/docs/en/#/FAQ)
 
 ## Feedback
 
